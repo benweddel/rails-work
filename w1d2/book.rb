@@ -19,4 +19,4 @@ b.price = 5
 b2 = Book.new
 b2.price = 10
 
-puts !cheaper?(b,b2)
+puts cheaper?(b,b2)
